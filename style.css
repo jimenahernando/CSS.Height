@@ -1,0 +1,28 @@
+* { 
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+    font-size: 2rem;
+    border: 3px solid lightseagreen;
+    height: 200px;
+}
+
+.percentage{
+    background-color: lightpink;
+    color: white;
+    height: 50%;
+}
+
+.auto{
+    background-color: lightskyblue;
+    color: white;
+    height: auto;
+}
+
+.minus {
+    background-color: lightgrey;
+    color: white;
+    min-height: 250px;
+}
